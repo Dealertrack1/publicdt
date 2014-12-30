@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-// I am Feature 3
-=======
-// Hi I am in feature 2
->>>>>>> feature_2
-
 var dealer_count = dealer_list.length; 
 
 var global_count_month = new Array();
