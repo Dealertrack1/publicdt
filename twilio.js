@@ -1,3 +1,5 @@
+// I am Feature 3
+
 var dealer_count = dealer_list.length; 
 
 var global_count_month = new Array();
