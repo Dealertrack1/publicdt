@@ -8,6 +8,8 @@ var global_count_outbound = new Array();
 
 var feature3;
 
+
+kjjojokjlkjojooioi
 var total_incoming = 0;
 var total_outgoing = 0;
 var avg_total_incoming = 0;
