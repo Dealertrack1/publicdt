@@ -6,6 +6,8 @@ var global_count_month = new Array();
 var global_count_inbound = new Array();
 var global_count_outbound = new Array();
 
+var feature3;
+
 var total_incoming = 0;
 var total_outgoing = 0;
 var avg_total_incoming = 0;
